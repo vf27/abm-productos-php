@@ -3,7 +3,6 @@
 Sistema completo de gestión (Alta, Baja, Modificación) desarrollado en PHP nativo con Bootstrap 5.
 
 **Trabajo Práctico 3** - Desarrollo Web - Universidad Siglo 21  
-**Calificación:** 100/100 ⭐
 
 ---
 
@@ -174,3 +173,4 @@ _Información completa de un producto con opciones de edición/eliminación_
 _Actualización de datos con formulario precargado_
 
 ---
+
