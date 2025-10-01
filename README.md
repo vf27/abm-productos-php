@@ -154,24 +154,25 @@ sistema-abm-productos/
 
 ### Listado Principal
 
-![Listado de Productos](screenshots/listado.jpg)
+![Listado de Productos](abm_productos_php/screenshots/listado.jpg)
 _Vista principal con tabla de productos, búsqueda y opciones de gestión_
 
 ### Formulario de Creación
 
-![Crear Producto](screenshots/crear.jpg)
+![Crear Producto](abm_productos_php/screenshots/crear.jpg)
 _Formulario para agregar nuevos productos con validación_
 
 ### Vista Detallada
 
-![Detalle del Producto](screenshots/detalle.jpg)
+![Detalle del Producto](abm_productos_php/screenshots/detalle.jpg)
 _Información completa de un producto con opciones de edición/eliminación_
 
 ### Formulario de Edición
 
-![Editar Producto](screenshots/editar.jpg)
+![Editar Producto](abm_productos_php/screenshots/editar.jpg)
 _Actualización de datos con formulario precargado_
 
 ---
+
 
 
